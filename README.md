@@ -7,7 +7,7 @@
 <br><br>
 
 <div align="center">
-    <img width="50%" src="https://i.giphy.com/CRYjTeHTf91eg.webp" />
+    <img width="50%" src="https://i.giphy.com/CgnsewKVEOdFKvl1h9.webp" />
 </div>
 
 <br>
